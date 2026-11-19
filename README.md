@@ -53,9 +53,7 @@ Pela **[L.A.P Informática](https://www.lapinformatica.com)** atendo empresas no
   <img alt="Stripe" src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white">
 </p>
 
-## Em destaque
-
-- **[fluxo2](https://github.com/leandroapaiva/fluxo2)**: 33 fluxos processuais do PJe de 2º grau em jBPM/jPDL 3.2 (distribuição, sessão de julgamento, decisões colegiadas, remessa ao STJ/STF e outros).
+## Portfólio
 
 <!--
   Novos projetos públicos entram aqui. Modelo:
